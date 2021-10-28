@@ -1,0 +1,14 @@
+{
+  "name": "tax_calculator_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tax_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
